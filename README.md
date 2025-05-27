@@ -8,21 +8,23 @@ These challenges certainly obstruct timely staffing. Candidate assessments' qual
 
 ## Prerequisites
 
-Python 3.11.1
-Visual Studio Code
-Ollama
+1. Python 3.11.1
+2. Visual Studio Code
+3. Ollama
 
 ## Run the following commands
-ollama run llava
-ollama run llama2
-ollama pull llava
-ollama pull llama2
-ollama run mistral
-ollama list 
-ollama serve 
-pip install PyPDF
+1. ollama run llava
+2. ollama run llama2
+3. ollama pull llava
+4. ollama pull llama2
+5. ollama run mistral
+6. ollama list 
+7. ollama serve 
+8. pip install PyPDF
+9. install reportlab
 
 ## Final Step: Run the Script
+
 python scripts/resume_screener.py
 
 # Criteria for screening resumes 
@@ -34,10 +36,10 @@ python scripts/resume_screener.py
         5. Any specific requirements (licenses, endorsements)
 
 # Score Interpretation
-•	80-100: 🟢 Strong Hire - Excellent match for position
-•	70-79: 🟢 Hire - Good match, recommend interview
-•	50-69: 🟡 Consider - Some qualifications missing
-•	0-49: 🔴 Not Recommended - Poor match for position
+1.	80-100: 🟢 Strong Hire - Excellent match for position
+2.	70-79: 🟢 Hire - Good match, recommend interview
+3.	50-69: 🟡 Consider - Some qualifications missing
+4.	0-49: 🔴 Not Recommended - Poor match for position
 
 
 
