@@ -2,7 +2,7 @@
 
 # Enhancing Teacher Efficiency Through  Implementation of Language-Vision Model
 
-TThe recruitment of qualified teachers happens in a way that is critical particularly within the school (MATS). However, existing Human Resource (HR) processes often do 
+The recruitment of qualified teachers happens in a way that is critical particularly within the school (MATS). However, existing Human Resource (HR) processes often do 
 suffer from inefficiencies in that resumes are manually screened plus evaluations are subjective and selection timelines are prolonged. 
 These challenges certainly obstruct timely staffing. Candidate assessments' quality as well as consistency are also compromised.
 
